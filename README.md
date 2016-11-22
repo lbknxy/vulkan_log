@@ -1,2 +1,2 @@
 # vulkan_log
-vulkan present time 
+some logs.
